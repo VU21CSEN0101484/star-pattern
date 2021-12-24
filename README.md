@@ -20,7 +20,7 @@
 
 OUTPUT:
 
-nter the number of rows: 5
+Enter the number of rows: 5
 * 
 * * 
 * * * 
